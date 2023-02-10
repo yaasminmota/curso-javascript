@@ -1,3 +1,3 @@
 # curso-javascript
-Repositório para guardar códigos e projetos feitos no Curso de JavaScript e TypeSript do básico ao avançado da Udemy
-https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
+Repositório para guardar códigos e projetos feitos no Curso Web Moderno Completo de JavaScript da Udemy.
+https://www.udemy.com/course/curso-web/
