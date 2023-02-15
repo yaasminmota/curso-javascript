@@ -8,5 +8,4 @@ console.log(valor)
 
 const produto = {}
 console.log(produto.preco) //undefined
-
-prod
+console.log(produto)
