@@ -2,7 +2,7 @@ var a = 3
 let b = 4
 
 var a = 30
-// no let não precisa redeclarar
+// no let não precisa redeclarar.
 b = 40
 
 console.log (a, b)
