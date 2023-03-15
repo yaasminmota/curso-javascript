@@ -1,5 +1,4 @@
 // Área da circunferência
-
 const PI = 3.141592;
 const raio = 10;
 let area  = PI * raio * raio;

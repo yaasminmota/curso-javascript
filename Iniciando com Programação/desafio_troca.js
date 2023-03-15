@@ -1,6 +1,5 @@
 let a = 7;
 let b = 94;
-
 /*
   Modo errado
   a = b;

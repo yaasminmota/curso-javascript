@@ -7,5 +7,4 @@ console.log(typeof salario);
 
 let estaChovendo = false;
 console.log(typeof estaChovendo);
-
 console.log(typeof 'Teste');
