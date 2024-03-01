@@ -9,7 +9,7 @@ soNotaBoa(7)
 
 // passando diretamente o valor, ele pode ser true ou false
 function seForVerdade(valor){
-    // so retorna se for truet
+    // so retorna se for true
     if(valor){
         console.log('É verdade...')
     }
